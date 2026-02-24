@@ -14,7 +14,7 @@ This is the version 1, and it will be constantly improved. We will update the pr
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-Reference: Salah Uddin, Muhammad Abbas, Kun Huang, Ebenezer Nanor, "Semi-Supervised Adaptive Learning for Streaming Data in Internet of Things Applications," in Internet of Things Feb. 2026, doi: [10.1109/TCYB.2021.3070420](https://doi.org/10.1016/j.iot.2026.101898).
+Reference: Salah Uddin, Muhammad Abbas, Kun Huang, Ebenezer Nanor, "Semi-Supervised Adaptive Learning for Streaming Data in Internet of Things Applications," in Internet of Things Feb. 2026, doi: (https://doi.org/10.1016/j.iot.2026.101898).
 
 -------------------------------------------------------------------------------------------------------------------------------
 
